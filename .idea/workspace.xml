@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc9eb64-47f0-4b7a-9434-c12a78fe358d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task.py" afterPath="$PROJECT_DIR$/task.py" />
-    </list>
+    <list default="true" id="9fc9eb64-47f0-4b7a-9434-c12a78fe358d" name="Default" comment="" />
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="task.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -34,51 +31,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ch5if.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch5if.py">
+      <file leaf-file-name="118.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/118.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ch51.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch51.py">
+      <file leaf-file-name="122.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/122.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="85">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sir tauseef lect.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sir tauseef lect.py">
+      <file leaf-file-name="124.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/124.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="125.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/125.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="126.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/126.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -152,6 +149,11 @@
         <option value="$PROJECT_DIR$/112.py" />
         <option value="$PROJECT_DIR$/113.py" />
         <option value="$PROJECT_DIR$/task.py" />
+        <option value="$PROJECT_DIR$/118.py" />
+        <option value="$PROJECT_DIR$/122.py" />
+        <option value="$PROJECT_DIR$/124.py" />
+        <option value="$PROJECT_DIR$/125.py" />
+        <option value="$PROJECT_DIR$/126.py" />
       </list>
     </option>
   </component>
@@ -213,8 +215,8 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/task.py" />
   </component>
-  <component name="RunManager" selected="Python.task">
-    <configuration default="false" name="page 103" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.126">
+    <configuration default="false" name="118" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -226,12 +228,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page 103.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/118.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="109" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="122" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -243,12 +245,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/109.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/122.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="112" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="124" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -260,12 +262,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/112.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/124.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="113" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="125" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -277,12 +279,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/113.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/125.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="task" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="126" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -294,7 +296,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/126.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -434,19 +436,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.page 103" />
-      <item index="1" class="java.lang.String" itemvalue="Python.109" />
-      <item index="2" class="java.lang.String" itemvalue="Python.112" />
-      <item index="3" class="java.lang.String" itemvalue="Python.113" />
-      <item index="4" class="java.lang.String" itemvalue="Python.task" />
+      <item index="0" class="java.lang.String" itemvalue="Python.118" />
+      <item index="1" class="java.lang.String" itemvalue="Python.122" />
+      <item index="2" class="java.lang.String" itemvalue="Python.124" />
+      <item index="3" class="java.lang.String" itemvalue="Python.125" />
+      <item index="4" class="java.lang.String" itemvalue="Python.126" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.task" />
-        <item index="1" class="java.lang.String" itemvalue="Python.113" />
-        <item index="2" class="java.lang.String" itemvalue="Python.112" />
-        <item index="3" class="java.lang.String" itemvalue="Python.109" />
-        <item index="4" class="java.lang.String" itemvalue="Python.page 103" />
+        <item index="0" class="java.lang.String" itemvalue="Python.126" />
+        <item index="1" class="java.lang.String" itemvalue="Python.125" />
+        <item index="2" class="java.lang.String" itemvalue="Python.124" />
+        <item index="3" class="java.lang.String" itemvalue="Python.122" />
+        <item index="4" class="java.lang.String" itemvalue="Python.118" />
       </list>
     </recent_temporary>
   </component>
@@ -502,7 +504,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -729,6 +731,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/113.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -737,10 +747,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task.py">
+    <entry file="file://$PROJECT_DIR$/118.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/122.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/124.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/125.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/126.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding />
         </state>
       </provider>
