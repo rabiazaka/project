@@ -1,4 +1,5 @@
-a=[]
-for value in range(20000,32000):
- a.append(value/7)
-print(a)
+first=(int(input("enter starting value: ")))
+end= (int(input("enter ending value: ")))
+for value in range(first,end):
+ if value%7==0:
+   print(value)
