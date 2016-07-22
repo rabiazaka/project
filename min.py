@@ -4,4 +4,3 @@ def function_power():
     b = (int(input("Enter value for power: ")))
     print(a.__pow__(b))
     print(abs(a))
-
