@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc9eb64-47f0-4b7a-9434-c12a78fe358d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9fc9eb64-47f0-4b7a-9434-c12a78fe358d" name="Default" comment="" />
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,16 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="task.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/task.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="118.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/118.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +91,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="142.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="142.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/142.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task function.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/task function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -159,6 +157,7 @@
         <option value="$PROJECT_DIR$/134.py" />
         <option value="$PROJECT_DIR$/136.py" />
         <option value="$PROJECT_DIR$/142.py" />
+        <option value="$PROJECT_DIR$/task function.py" />
       </list>
     </option>
   </component>
@@ -220,24 +219,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/task.py" />
   </component>
-  <component name="RunManager" selected="Python.142">
-    <configuration default="false" name="125" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="project" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/125.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.task function">
     <configuration default="false" name="126" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,6 +284,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="project" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/142.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="task function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -441,19 +440,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.125" />
-      <item index="1" class="java.lang.String" itemvalue="Python.126" />
-      <item index="2" class="java.lang.String" itemvalue="Python.134" />
-      <item index="3" class="java.lang.String" itemvalue="Python.136" />
-      <item index="4" class="java.lang.String" itemvalue="Python.142" />
+      <item index="0" class="java.lang.String" itemvalue="Python.126" />
+      <item index="1" class="java.lang.String" itemvalue="Python.134" />
+      <item index="2" class="java.lang.String" itemvalue="Python.136" />
+      <item index="3" class="java.lang.String" itemvalue="Python.142" />
+      <item index="4" class="java.lang.String" itemvalue="Python.task function" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.142" />
-        <item index="1" class="java.lang.String" itemvalue="Python.136" />
-        <item index="2" class="java.lang.String" itemvalue="Python.134" />
-        <item index="3" class="java.lang.String" itemvalue="Python.126" />
-        <item index="4" class="java.lang.String" itemvalue="Python.125" />
+        <item index="0" class="java.lang.String" itemvalue="Python.task function" />
+        <item index="1" class="java.lang.String" itemvalue="Python.142" />
+        <item index="2" class="java.lang.String" itemvalue="Python.136" />
+        <item index="3" class="java.lang.String" itemvalue="Python.134" />
+        <item index="4" class="java.lang.String" itemvalue="Python.126" />
       </list>
     </recent_temporary>
   </component>
@@ -872,6 +871,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding />
         </state>
       </provider>
